@@ -15,4 +15,8 @@ A collection of notebooks, datasets, and scripts for projects I have written an 
    - Tools Used: Python, yfinance api
 - [Optimizing your ma crossover strategy in Python](https://medium.com/trading-data-analysis/optimizing-your-ma-crossover-strategy-in-python-6fa8429aea58)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Optimizing%20your%20MA%20Crossover%20Strategy%20in%20Python/Optimizing_your_ma_crossover_strategy_in_Python.ipynb)
-   - Tools Used: Python, yfinance api
+   - Tools Used: Python, yfinance API
+ - [Exploring Economic Data with Python](https://medium.com/datadriveninvestor/exploring-economic-data-with-python-5d5b0a86cfda)
+   - [Notebook](https://github.com/jingle77/Medium/blob/main/Exploring%20Economic%20Data%20with%20Python/Exploring_Economic_Data_with_Python.ipynb)
+   - Tools Used: Python, FRED API
+ 
