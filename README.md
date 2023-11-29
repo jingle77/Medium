@@ -9,3 +9,6 @@
 - [Getting Started with Python for Finance](https://medium.com/@jaingle77/getting-started-with-python-for-finance-f8c701ad602a)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Getting%20Started%20with%20Python%20for%20Finance/Getting_Started_with_Python_for_Finance%20(1).ipynb)
    - Tools Used: Python, yfinance api
+- [Pulling options data with Python](https://medium.com/trading-data-analysis/pulling-options-data-with-python-80568cf3f50f))
+   - [Notebook](https://github.com/jingle77/Medium/blob/main/Getting%20Started%20with%20Python%20for%20Finance/Getting_Started_with_Python_for_Finance%20(1).ipynb)
+   - Tools Used: Python, yfinance api
