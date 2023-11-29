@@ -1,6 +1,8 @@
 # Medium
 A collection of notebooks, datasets, and scripts for projects I have written an article for on the medium platform. Some of the topics I enjoy writing about include but are not limited to data science, machine learning on the AWS cloud, applied finance in Python, and many more topics.
 
+[![Twitter](https://img.shields.io/badge/Twitter-grey?logo=x)](https://twitter.com/J_Ingle77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ingle-0a8355135/)
 ----
 ## **Table of Contents**
 - [Embark on Your Cloud-Powered Machine Learning Journey with AWS SageMaker](https://medium.com/towards-aws/embark-on-your-cloud-powered-machine-learning-journey-with-aws-sagemaker-b782cc3b64ad) 
