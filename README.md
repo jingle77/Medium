@@ -12,3 +12,5 @@
 - [Pulling options data with Python](https://medium.com/trading-data-analysis/pulling-options-data-with-python-80568cf3f50f)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Pulling%20options%20data%20with%20Python/Pulling_options_data_with_Python.ipynb)
    - Tools Used: Python, yfinance api
+- [Optimizing your ma crossover strategy in Python](https://medium.com/trading-data-analysis/optimizing-your-ma-crossover-strategy-in-python-6fa8429aea58)
+   - Tools Used: Python, yfinance api
