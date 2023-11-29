@@ -1,5 +1,6 @@
 # Medium
-#### A collection of notebooks, datasets, and scripts for projects I have written an article for on the medium platform
+A collection of notebooks, datasets, and scripts for projects I have written an article for on the medium platform. Some of the topics I enjoy writing about include but are not limited to data science, machine learning on the AWS cloud, applied finance in Python, and many more topics.
+
 ----
 ## **Table of Contents**
 - [Embark on Your Cloud-Powered Machine Learning Journey with AWS SageMaker](https://medium.com/towards-aws/embark-on-your-cloud-powered-machine-learning-journey-with-aws-sagemaker-b782cc3b64ad) 
