@@ -24,3 +24,8 @@ A collection of notebooks, datasets, and scripts for projects I have written an 
  - [Can one predict the Stock Market with Fed Funds Rate?](https://medium.com/@jaingle77/can-one-predict-the-stock-market-with-fed-funds-rate-8499dbab19db)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Can%20one%20predict%20the%20Stock%20Market%20with%20Fed%20Funds%20Rate%3F/Can_one_predict_the_Stock_Market_with_Fed_Funds_Rate_.ipynb)
    - Tools Used: Python, FRED API, yfinance
+ - [Unveiling Economic Rhythms: A Deep Dive into Identifying Cycles with Machine Learning](https://medium.com/@jaingle77/can-one-predict-the-stock-market-with-fed-funds-rate-8499dbab19db)
+   - [Notebook](https://github.com/jingle77/Medium/blob/main/Can%20one%20predict%20the%20Stock%20Market%20with%20Fed%20Funds%20Rate%3F/Can_one_predict_the_Stock_Market_with_Fed_Funds_Rate_.ipynb)
+   - Tools Used: Python, FMP API
+  
+   
