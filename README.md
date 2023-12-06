@@ -21,7 +21,7 @@ A collection of notebooks, datasets, and scripts for projects I have written an 
  - [Exploring Economic Data with Python](https://medium.com/datadriveninvestor/exploring-economic-data-with-python-5d5b0a86cfda)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Exploring%20Economic%20Data%20with%20Python/Exploring_Economic_Data_with_Python.ipynb)
    - Tools Used: Python, FRED API
- - [Can one predict the Stock Market with Fed Funds Rate?](https://medium.com/@jaingle77/can-one-predict-the-stock-market-with-fed-funds-rate-8499dbab19db)
+ - [Can one predict the Stock Market with Fed Funds Rate?](https://medium.datadriveninvestor.com/unveiling-economic-rhythms-a-deep-dive-into-identifying-cycles-with-machine-learning-f536079027a1)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Can%20one%20predict%20the%20Stock%20Market%20with%20Fed%20Funds%20Rate%3F/Can_one_predict_the_Stock_Market_with_Fed_Funds_Rate_.ipynb)
    - Tools Used: Python, FRED API, yfinance
  - [Unveiling Economic Rhythms: A Deep Dive into Identifying Cycles with Machine Learning](https://medium.com/@jaingle77/can-one-predict-the-stock-market-with-fed-funds-rate-8499dbab19db)
