@@ -27,7 +27,7 @@ A collection of notebooks, datasets, and scripts for projects I have written an 
  - [Unveiling Economic Rhythms: A Deep Dive into Identifying Cycles with Machine Learning](https://medium.com/@jaingle77/can-one-predict-the-stock-market-with-fed-funds-rate-8499dbab19db)
    - [Notebook](https://github.com/jingle77/Medium/blob/main/Can%20one%20predict%20the%20Stock%20Market%20with%20Fed%20Funds%20Rate%3F/Can_one_predict_the_Stock_Market_with_Fed_Funds_Rate_.ipynb)
    - Tools Used: Python, FMP API
- - [Beyond the Numbers: Illuminating Business Insights with Topic Modeling in Earnings Calls](https://medium.com/@jaingle77/can-one-predict-the-stock-market-with-fed-funds-rate-8499dbab19db)
+ - [Beyond the Numbers: Illuminating Business Insights with Topic Modeling in Earnings Calls](https://medium.com/datadriveninvestor/beyond-the-numbers-illuminating-business-insights-with-topic-modeling-in-earnings-calls-eb0836789a37)
    - [Notebook](https://github.com/jingle77/Medium/tree/main/Beyond%20the%20Numbers%3A%20Illuminating%20Business%20Insights%20with%20Topic%20Modeling%20in%20Earnings%C2%A0Calls)
    - Tools Used: Python, FMP API
    
